@@ -1,0 +1,11 @@
+sqlmap
+Nmap
+nikto
+w3af
+Havij
+ZAP
+Burp Suite
+sqlninja
+sqlsus
+Acunetix
+skipfish

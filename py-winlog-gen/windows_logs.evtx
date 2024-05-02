@@ -1,0 +1,110 @@
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="System"/>
+    <EventID>4482</EventID>
+    <Level>Error</Level>
+    <TimeCreated SystemTime="2024-04-29T20:19:11.%fZ"/>
+  </System>
+  <EventData>
+    <Data>Disk space running low.</Data>
+  </EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="System"/>
+    <EventID>4774</EventID>
+    <Level>Error</Level>
+    <TimeCreated SystemTime="2024-04-29T20:19:11.%fZ"/>
+  </System>
+  <EventData>
+    <Data>User logged in successfully.</Data>
+  </EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Application"/>
+    <EventID>2574</EventID>
+    <Level>Information</Level>
+    <TimeCreated SystemTime="2024-04-29T20:19:11.%fZ"/>
+  </System>
+  <EventData>
+    <Data>Failed to start service.</Data>
+  </EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Application"/>
+    <EventID>8501</EventID>
+    <Level>Error</Level>
+    <TimeCreated SystemTime="2024-04-29T20:19:11.%fZ"/>
+  </System>
+  <EventData>
+    <Data>Disk space running low.</Data>
+  </EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="System"/>
+    <EventID>8816</EventID>
+    <Level>Information</Level>
+    <TimeCreated SystemTime="2024-04-29T20:19:11.%fZ"/>
+  </System>
+  <EventData>
+    <Data>User logged in successfully.</Data>
+  </EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Application"/>
+    <EventID>4990</EventID>
+    <Level>Warning</Level>
+    <TimeCreated SystemTime="2024-04-29T20:19:11.%fZ"/>
+  </System>
+  <EventData>
+    <Data>User logged in successfully.</Data>
+  </EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="System"/>
+    <EventID>4228</EventID>
+    <Level>Information</Level>
+    <TimeCreated SystemTime="2024-04-29T20:19:11.%fZ"/>
+  </System>
+  <EventData>
+    <Data>Network connection lost.</Data>
+  </EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Security"/>
+    <EventID>3359</EventID>
+    <Level>Warning</Level>
+    <TimeCreated SystemTime="2024-04-29T20:19:11.%fZ"/>
+  </System>
+  <EventData>
+    <Data>User logged in successfully.</Data>
+  </EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Security"/>
+    <EventID>3764</EventID>
+    <Level>Warning</Level>
+    <TimeCreated SystemTime="2024-04-29T20:19:11.%fZ"/>
+  </System>
+  <EventData>
+    <Data>Network connection lost.</Data>
+  </EventData>
+</Event>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Application"/>
+    <EventID>9904</EventID>
+    <Level>Information</Level>
+    <TimeCreated SystemTime="2024-04-29T20:19:11.%fZ"/>
+  </System>
+  <EventData>
+    <Data>Disk space running low.</Data>
+  </EventData>
+</Event>

@@ -1,0 +1,7 @@
+/wp-admin
+/phpmyadmin
+/admin
+/login
+/wp-login.php
+/administrator
+/admin.php

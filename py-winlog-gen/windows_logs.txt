@@ -1,0 +1,10 @@
+[2024-04-29 20:16:53] [Error] [System] User logged in successfully.
+[2024-04-29 20:16:53] [Information] [System] Disk space running low.
+[2024-04-29 20:16:53] [Warning] [System] Failed to start service.
+[2024-04-29 20:16:53] [Error] [System] Critical error encountered.
+[2024-04-29 20:16:53] [Error] [Application] Critical error encountered.
+[2024-04-29 20:16:53] [Error] [Application] Critical error encountered.
+[2024-04-29 20:16:53] [Information] [Security] Critical error encountered.
+[2024-04-29 20:16:53] [Warning] [Application] Critical error encountered.
+[2024-04-29 20:16:53] [Warning] [Application] Critical error encountered.
+[2024-04-29 20:16:53] [Information] [System] Failed to start service.
